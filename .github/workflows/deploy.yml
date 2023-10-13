@@ -43,4 +43,4 @@ jobs:
         - name: Build step
           run: npm run build
         - name: Deploy app
-          run: echo "Deploying"
+          run: echo "Hello"
